@@ -3,5 +3,5 @@
 ### RECEITAS SALGADAS
 
 - STROGONOFF DE FRANGO
-
-- bolo de cenoura
+- bolo
+- pave
